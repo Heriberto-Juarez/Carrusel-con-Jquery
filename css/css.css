@@ -1,8 +1,8 @@
 .controles {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
 .contenedor {
     padding: 0 !important;
     margin: 0 !important;
