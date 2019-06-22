@@ -1,6 +1,6 @@
 # Carrusel-con-Jquery
 Un carrusel que permite mostrar elementos en modo carrusel, con controles para cambiar de elemento.
-
+Se puede optar por usar los controles html que genera el carrusel o controlar que slider se muestra desde javascript gracias a los métodos que se proveen.
 
 **NOTA:** Es escencial hacer referencia a jQuery antes de llamar el archivo con la libreria, de preferencia utilizar una verrión superior a la 3.0
   
