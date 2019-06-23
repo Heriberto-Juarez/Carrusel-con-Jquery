@@ -2,11 +2,7 @@
 Un carrusel que permite mostrar elementos en modo carrusel, con controles para cambiar de elemento.
 Se puede optar por usar los controles html que genera el carrusel o controlar que slider se muestra desde javascript gracias a los métodos que se proveen.
 
-![uno](https://user-images.githubusercontent.com/20604217/59969641-13799680-9518-11e9-9b7f-c7f7c70b47f4.PNG)
-
-
-![dos](https://user-images.githubusercontent.com/20604217/59969640-13799680-9518-11e9-8831-781926181090.PNG)
-
+![CarruselGif](https://user-images.githubusercontent.com/20604217/59970629-e9809e00-9530-11e9-93a0-ad97d56585f0.gif)
 
 **NOTA:** Es escencial hacer referencia a jQuery antes de llamar el archivo con la libreria, de preferencia utilizar una verrión superior a la 3.0
   
